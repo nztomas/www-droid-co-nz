@@ -61,7 +61,7 @@ h4 {
 
 .sidebar-nav li {
 	line-height: 40px;
-	text-indent: 20px;
+	text-indent: 10px;
 }
 
 .sidebar-nav li a {
@@ -219,13 +219,13 @@ i.service-icon.fa-mobile {
 }
 
 /* Call to Action */
-.call-to-action {
+.contact-us {
 	color: #ffffff;
 	background: #0a5175;
 	padding: 50px 0;
 }
 
-.call-to-action .btn {
+.contact-us .btn {
 	margin: 10px;
 }
 
