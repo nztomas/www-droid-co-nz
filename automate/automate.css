@@ -2,22 +2,18 @@ html, body {
 	height: 100%;
 }
 
-.navbar {
-	margin-top: 25px;
-}
-
-.landing {
-	margin-top: 20px;
+#hero {
+	padding-top: 90px;
 	margin-bottom: 25px;
 	text-align: center;	
 }
 
-.landing h1 {
+#hero h1 {
 	font-size: 6em;
 	margin: 0 0 10px 0;
 }
 
-.landing p {
+#hero p {
 	font-size: 2em;
 	margin: 0;
 	padding: 0 100px;
@@ -35,7 +31,7 @@ html, body {
 
 #features {
 	backfground-color: yellow;
-	padding-top: 20px;
+	padding-top: 80px;
 	padding-bottom: 40px;	
 }
 
@@ -78,7 +74,7 @@ i.service-icon {
 }
 
 .carousel-caption {
-  height: 20%;
+  height: 18%;
   z-index: 10;
   padding: 0;
 }
@@ -96,7 +92,7 @@ i.service-icon {
 
 .carousel .item {
   background-color: #7ffff77;
-  padding-top: 40px;
+  padding-top: 70px;
 }
 .carousel-inner > .item > img {
   height: 75%;
